@@ -1,0 +1,16 @@
+obj_xb3c#:#Base3 Chatbot
+objs_xb3c#:#Base3 Chatbots
+xb3c#:#Base3 Chatbot
+xb3c_new#:#Create new Base3 Chatbot
+xb3c_add#:#Add Base3 Chatbot
+xb3c_read#:#Read
+xb3c_write#:#Edit
+xb3c_delete#:#Delete
+xb3c_visible#:#Visible
+xb3c_edit_permission#:#Edit permissions
+crs_create_xb3c#:#Create Base3 Chatbot
+grp_create_xb3c#:#Create Base3 Chatbot
+fold_create_xb3c#:#Create Base3 Chatbot
+root_create_xb3c#:#Create Base3 Chatbot
+cat_create_xb3c#:#Create Base3 Chatbot
+content#:#Content
